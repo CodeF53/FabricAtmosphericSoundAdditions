@@ -1,4 +1,5 @@
-# Fabric Example Mod
+# Fabric Sound Times
+A simple mod that plays sounds based on the world age (for Bappity#3120) 
 
 ## Setup
 
