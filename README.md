@@ -1,10 +1,10 @@
-# Fabric Sound Times
-A simple mod that plays sounds based on the world age (for Bappity#3120) 
+# Atmospheric Sound Additions
+A simple mod that plays sounds based on the world age (made for Bappity#3120 on discord)
 
-## Setup
+## Sound Source Acknowledgment
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+Currently, I have no idea where Bappity (the person I am making this mod for) got these sounds from, or what license they may fall under.
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This project is made under the [unlicense](https://unlicense.org/) license\

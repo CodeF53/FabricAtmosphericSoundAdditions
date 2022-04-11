@@ -1,0 +1,17 @@
+{
+  "load_in": {
+    "sounds": [
+      "soundatmospherics:load_in"
+    ]
+  },
+  "noon": {
+    "sounds": [
+      "soundatmospherics:noon"
+    ]
+  },
+  "night_fall": {
+    "sounds": [
+      "soundatmospherics:night_fall"
+    ]
+  }
+}
